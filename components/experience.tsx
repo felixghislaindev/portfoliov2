@@ -7,7 +7,7 @@ export default function Experience() {
     {
       company: "EVC",
       role: "Front-End Engineer",
-      period: "Apr 2022 – Aug 2023",
+      period: "Jan 2024 – Spet 2024 contract",
       achievements: [
         "Spearheaded the redesign of the Admin Portal, enhancing user experience and boosting platform performance",
         "Developed a scalable and reusable component library, reducing development time across teams",
